@@ -75,5 +75,3 @@ for st, sz in pairs:
 print("---Part 2---")
 print("", min(P2))
 
-
-#print("Thanks for the code")
