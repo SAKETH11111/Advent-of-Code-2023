@@ -74,3 +74,6 @@ for st, sz in pairs:
     P2.append(min(R)[0])
 print("---Part 2---")
 print("", min(P2))
+
+
+#print("Thanks for the code")
