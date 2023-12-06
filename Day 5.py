@@ -1,5 +1,5 @@
 # Read input file, strip extra whitespaces, and split into lines
-D = open(0).read().strip()
+D = open('0').read().strip()
 L = D.split('\n')
 
 # Split input into parts separated by empty lines

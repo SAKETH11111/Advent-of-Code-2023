@@ -1,7 +1,7 @@
 from collections import defaultdict
 
 # Read input file, strip extra whitespaces, and split into lines
-input_data = open(0).read().strip()
+input_data = open('0').read().strip()
 lines = input_data.split('\n')
 
 # Initialize variables
