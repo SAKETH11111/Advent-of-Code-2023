@@ -1,7 +1,7 @@
 from collections import defaultdict
 
 # Read input file, strip extra whitespaces, and split into lines
-input_data = open("input.txt").read().strip()
+input_data = open(0).read().strip()
 lines = input_data.split('\n')
 
 # Convert lines to a 2D grid G
