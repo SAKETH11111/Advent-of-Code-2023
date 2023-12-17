@@ -65,4 +65,7 @@ for part2 in [False, True]:
 
             ans += dij
 
-    print(ans)
+    if part2 is True:
+      print("part 2:", ans)
+    else:
+      print("Part 1:", ans)
