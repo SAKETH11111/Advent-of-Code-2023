@@ -1,5 +1,5 @@
 from collections import deque
- 
+  
 # Read the input file
 input_data = open("input.txt").read().strip()
 lines = input_data.split('\n')
