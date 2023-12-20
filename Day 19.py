@@ -2,7 +2,7 @@ from collections import deque
   
 # Read the input file
 input_data = open("input.txt").read().strip()
-lines = input_data.split('\n') 
+lines = input_data.split('\n')  
 
 # Parse rules and parts
 rules, parts = input_data.split('\n\n')
