@@ -9,7 +9,7 @@ rules, parts = input_data.split('\n\n')
 
 # Parse rules into a dictionary
 rule_dict = {}
-for rule in rules.split('\n'):
+for rule in rules.split('\n'): 
     name, rest = rule.split('{')
     rule_dict[name] = rest[:-1]
 
