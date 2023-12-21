@@ -12,7 +12,7 @@ rows = len(grid)
 columns = len(grid[0])
 
 # Function to calculate the least common multiple of a list of numbers
-def lcm(xs):
+def lcm(xs): 
     ans = 1
     for x in xs:
         ans = (ans * x) // math.gcd(x, ans)
