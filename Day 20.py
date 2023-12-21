@@ -8,7 +8,7 @@ lines = data.split('\n')
 
 # Convert input to a 2D grid
 grid = [[c for c in row] for row in lines]
-rows = len(grid)
+rows = len(grid) 
 columns = len(grid[0])
  
 # Function to calculate the least common multiple of a list of numbers 
