@@ -11,7 +11,7 @@ grid = [[c for c in row] for row in lines]
 rows = len(grid)
 columns = len(grid[0])
  
-# Function to calculate the least common multiple of a list of numbers
+# Function to calculate the least common multiple of a list of numbers 
 def lcm(xs): 
     ans = 1
     for x in xs:
