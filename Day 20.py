@@ -1,7 +1,7 @@
 from collections import defaultdict, deque
 import math
 import sys
-
+ 
 # Read input
 data = open("input.txt").read().strip()
 lines = data.split('\n')
