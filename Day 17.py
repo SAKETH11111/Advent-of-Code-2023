@@ -9,7 +9,7 @@ def solve(part2=False):
 
     Q = [(0, 0, 0, -1, -1)]
     D = {}
-
+ 
     while Q:
         dist, r, c, dir_, indir = heappop(Q)
 

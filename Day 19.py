@@ -1,15 +1,15 @@
 from collections import deque
-
+  
 # Read the input file
 input_data = open("input.txt").read().strip()
-lines = input_data.split('\n')
+lines = input_data.split('\n')  
 
 # Parse rules and parts
 rules, parts = input_data.split('\n\n')
 
 # Parse rules into a dictionary
 rule_dict = {}
-for rule in rules.split('\n'):
+for rule in rules.split('\n'): 
     name, rest = rule.split('{')
     rule_dict[name] = rest[:-1]
 
