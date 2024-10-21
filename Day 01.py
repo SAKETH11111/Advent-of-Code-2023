@@ -1,3 +1,9 @@
+# Advent of Code 2023 - Day 01 Solution
+
+# This script processes an input file to calculate two totals based on specific rules.
+# The input file contains lines with a mix of characters and digits.
+# The goal is to extract digits and calculate totals for part 1 and part 2.
+
 # Read input file, strip extra whitespaces, and split into lines
 input_data = open('input.txt').read().strip()
 
