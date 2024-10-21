@@ -213,3 +213,782 @@
 
 6. **Result Comparison:**
    - Realize that the solution for Part 2 involves a broader consideration of seed ranges but follows a similar process to Part 1.
+
+# Day 6:
+### Part 1:
+
+1. **Understanding the Task:**
+   - Recognize that the goal is to calculate the number of valid time-distance pairs.
+   - Understand that the input consists of time and distance values.
+
+2. **Parsing the Input:**
+   - Identify the structure of the input, where time and distance values are provided.
+
+3. **Iterative Processing:**
+   - Plan a way to iterate through the time and distance values.
+   - Understand the need to calculate valid pairs based on the given conditions.
+
+4. **Handling Time-Distance Pairs:**
+   - Consider a mechanism to calculate the number of valid pairs.
+   - Notice that the conditions for validity are based on the product of time and distance.
+
+5. **Data Storage:**
+   - Think about storing information efficiently, possibly using lists or arrays.
+
+### Part 2:
+
+1. **Understanding the Task:**
+   - Recognize that the goal is to calculate the number of valid time-distance pairs for a combined value.
+   - Understand that the input consists of combined time and distance values.
+
+2. **Parsing the Input:**
+   - Identify the structure of the input, where combined time and distance values are provided.
+
+3. **Iterative Processing:**
+   - Plan a way to iterate through the combined time and distance values.
+   - Understand the need to calculate valid pairs based on the given conditions.
+
+4. **Handling Combined Time-Distance Pairs:**
+   - Consider a mechanism to calculate the number of valid pairs.
+   - Notice that the conditions for validity are based on the product of combined time and distance.
+
+5. **Data Storage:**
+   - Think about storing information efficiently, possibly using lists or arrays.
+
+# Day 7:
+### Part 1:
+
+1. **Understanding the Task:**
+   - Recognize that the goal is to calculate the strength of poker hands.
+   - Understand that the input consists of poker hands and bids.
+
+2. **Parsing the Input:**
+   - Identify the structure of the input, where poker hands and bids are provided.
+
+3. **Iterative Processing:**
+   - Plan a way to iterate through the poker hands and bids.
+   - Understand the need to calculate the strength of each hand based on the given conditions.
+
+4. **Handling Poker Hands:**
+   - Consider a mechanism to calculate the strength of each hand.
+   - Notice that the conditions for strength are based on the ranks and suits of the cards.
+
+5. **Data Storage:**
+   - Think about storing information efficiently, possibly using lists or arrays.
+
+### Part 2:
+
+1. **Understanding the Task:**
+   - Recognize that the goal is to calculate the strength of poker hands with additional rules.
+   - Understand that the input consists of poker hands and bids.
+
+2. **Parsing the Input:**
+   - Identify the structure of the input, where poker hands and bids are provided.
+
+3. **Iterative Processing:**
+   - Plan a way to iterate through the poker hands and bids.
+   - Understand the need to calculate the strength of each hand based on the given conditions.
+
+4. **Handling Poker Hands:**
+   - Consider a mechanism to calculate the strength of each hand.
+   - Notice that the conditions for strength are based on the ranks and suits of the cards.
+
+5. **Data Storage:**
+   - Think about storing information efficiently, possibly using lists or arrays.
+
+# Day 8:
+### Part 1:
+
+1. **Understanding the Task:**
+   - Recognize that the goal is to calculate the least common multiple (LCM) of a set of numbers.
+   - Understand that the input consists of steps and rules.
+
+2. **Parsing the Input:**
+   - Identify the structure of the input, where steps and rules are provided.
+
+3. **Iterative Processing:**
+   - Plan a way to iterate through the steps and rules.
+   - Understand the need to calculate the LCM based on the given conditions.
+
+4. **Handling Steps and Rules:**
+   - Consider a mechanism to calculate the LCM.
+   - Notice that the conditions for LCM are based on the steps and rules.
+
+5. **Data Storage:**
+   - Think about storing information efficiently, possibly using lists or arrays.
+
+### Part 2:
+
+1. **Understanding the Task:**
+   - Recognize that the goal is to calculate the least common multiple (LCM) of a set of numbers with additional rules.
+   - Understand that the input consists of steps and rules.
+
+2. **Parsing the Input:**
+   - Identify the structure of the input, where steps and rules are provided.
+
+3. **Iterative Processing:**
+   - Plan a way to iterate through the steps and rules.
+   - Understand the need to calculate the LCM based on the given conditions.
+
+4. **Handling Steps and Rules:**
+   - Consider a mechanism to calculate the LCM.
+   - Notice that the conditions for LCM are based on the steps and rules.
+
+5. **Data Storage:**
+   - Think about storing information efficiently, possibly using lists or arrays.
+
+# Day 9:
+### Part 1:
+
+1. **Understanding the Task:**
+   - Recognize that the goal is to extrapolate the next value in a sequence.
+   - Understand that the input consists of sequences of integers.
+
+2. **Parsing the Input:**
+   - Identify the structure of the input, where sequences of integers are provided.
+
+3. **Iterative Processing:**
+   - Plan a way to iterate through the sequences.
+   - Understand the need to extrapolate the next value based on the given conditions.
+
+4. **Handling Sequences:**
+   - Consider a mechanism to extrapolate the next value in each sequence.
+   - Notice that the conditions for extrapolation are based on the differences between consecutive elements.
+
+5. **Data Storage:**
+   - Think about storing information efficiently, possibly using lists or arrays.
+
+### Part 2:
+
+1. **Understanding the Task:**
+   - Recognize that the goal is to extrapolate the next value in a sequence in reverse order.
+   - Understand that the input consists of sequences of integers.
+
+2. **Parsing the Input:**
+   - Identify the structure of the input, where sequences of integers are provided.
+
+3. **Iterative Processing:**
+   - Plan a way to iterate through the sequences.
+   - Understand the need to extrapolate the next value based on the given conditions.
+
+4. **Handling Sequences:**
+   - Consider a mechanism to extrapolate the next value in each sequence.
+   - Notice that the conditions for extrapolation are based on the differences between consecutive elements.
+
+5. **Data Storage:**
+   - Think about storing information efficiently, possibly using lists or arrays.
+
+# Day 10:
+### Part 1:
+
+1. **Understanding the Task:**
+   - Recognize that the goal is to find the length of the path marked by "S" on the grid.
+   - Understand that the input consists of a grid of characters.
+
+2. **Parsing the Input:**
+   - Identify the structure of the input, where the grid of characters is provided.
+
+3. **Iterative Processing:**
+   - Plan a way to iterate through the grid.
+   - Understand the need to find the path based on the given conditions.
+
+4. **Handling the Grid:**
+   - Consider a mechanism to find the path on the grid.
+   - Notice that the conditions for finding the path are based on the characters in the grid.
+
+5. **Data Storage:**
+   - Think about storing information efficiently, possibly using lists or arrays.
+
+### Part 2:
+
+1. **Understanding the Task:**
+   - Recognize that the goal is to find the number of tiles inside the path.
+   - Understand that the input consists of a grid of characters.
+
+2. **Parsing the Input:**
+   - Identify the structure of the input, where the grid of characters is provided.
+
+3. **Iterative Processing:**
+   - Plan a way to iterate through the grid.
+   - Understand the need to find the number of tiles inside the path based on the given conditions.
+
+4. **Handling the Grid:**
+   - Consider a mechanism to find the number of tiles inside the path.
+   - Notice that the conditions for finding the tiles are based on the characters in the grid.
+
+5. **Data Storage:**
+   - Think about storing information efficiently, possibly using lists or arrays.
+
+# Day 11:
+### Part 1:
+
+1. **Understanding the Task:**
+   - Recognize that the goal is to find the number of empty rows and columns in the grid.
+   - Understand that the input consists of a grid of characters.
+
+2. **Parsing the Input:**
+   - Identify the structure of the input, where the grid of characters is provided.
+
+3. **Iterative Processing:**
+   - Plan a way to iterate through the grid.
+   - Understand the need to find the number of empty rows and columns based on the given conditions.
+
+4. **Handling the Grid:**
+   - Consider a mechanism to find the number of empty rows and columns.
+   - Notice that the conditions for finding the empty rows and columns are based on the characters in the grid.
+
+5. **Data Storage:**
+   - Think about storing information efficiently, possibly using lists or arrays.
+
+### Part 2:
+
+1. **Understanding the Task:**
+   - Recognize that the goal is to find the number of empty rows and columns in the grid with additional rules.
+   - Understand that the input consists of a grid of characters.
+
+2. **Parsing the Input:**
+   - Identify the structure of the input, where the grid of characters is provided.
+
+3. **Iterative Processing:**
+   - Plan a way to iterate through the grid.
+   - Understand the need to find the number of empty rows and columns based on the given conditions.
+
+4. **Handling the Grid:**
+   - Consider a mechanism to find the number of empty rows and columns.
+   - Notice that the conditions for finding the empty rows and columns are based on the characters in the grid.
+
+5. **Data Storage:**
+   - Think about storing information efficiently, possibly using lists or arrays.
+
+# Day 12:
+### Part 1:
+
+1. **Understanding the Task:**
+   - Recognize that the goal is to find the number of valid dot-block pairs.
+   - Understand that the input consists of dots and blocks.
+
+2. **Parsing the Input:**
+   - Identify the structure of the input, where dots and blocks are provided.
+
+3. **Iterative Processing:**
+   - Plan a way to iterate through the dots and blocks.
+   - Understand the need to find the number of valid pairs based on the given conditions.
+
+4. **Handling Dot-Block Pairs:**
+   - Consider a mechanism to find the number of valid pairs.
+   - Notice that the conditions for validity are based on the length of the blocks.
+
+5. **Data Storage:**
+   - Think about storing information efficiently, possibly using lists or arrays.
+
+### Part 2:
+
+1. **Understanding the Task:**
+   - Recognize that the goal is to find the number of valid dot-block pairs with additional rules.
+   - Understand that the input consists of dots and blocks.
+
+2. **Parsing the Input:**
+   - Identify the structure of the input, where dots and blocks are provided.
+
+3. **Iterative Processing:**
+   - Plan a way to iterate through the dots and blocks.
+   - Understand the need to find the number of valid pairs based on the given conditions.
+
+4. **Handling Dot-Block Pairs:**
+   - Consider a mechanism to find the number of valid pairs.
+   - Notice that the conditions for validity are based on the length of the blocks.
+
+5. **Data Storage:**
+   - Think about storing information efficiently, possibly using lists or arrays.
+
+# Day 14:
+### Part 1:
+
+1. **Understanding the Task:**
+   - Recognize that the goal is to calculate the score of the grid.
+   - Understand that the input consists of a grid of characters.
+
+2. **Parsing the Input:**
+   - Identify the structure of the input, where the grid of characters is provided.
+
+3. **Iterative Processing:**
+   - Plan a way to iterate through the grid.
+   - Understand the need to calculate the score based on the given conditions.
+
+4. **Handling the Grid:**
+   - Consider a mechanism to calculate the score of the grid.
+   - Notice that the conditions for calculating the score are based on the characters in the grid.
+
+5. **Data Storage:**
+   - Think about storing information efficiently, possibly using lists or arrays.
+
+### Part 2:
+
+1. **Understanding the Task:**
+   - Recognize that the goal is to calculate the score of the grid with additional rules.
+   - Understand that the input consists of a grid of characters.
+
+2. **Parsing the Input:**
+   - Identify the structure of the input, where the grid of characters is provided.
+
+3. **Iterative Processing:**
+   - Plan a way to iterate through the grid.
+   - Understand the need to calculate the score based on the given conditions.
+
+4. **Handling the Grid:**
+   - Consider a mechanism to calculate the score of the grid.
+   - Notice that the conditions for calculating the score are based on the characters in the grid.
+
+5. **Data Storage:**
+   - Think about storing information efficiently, possibly using lists or arrays.
+
+# Day 15:
+### Part 1:
+
+1. **Understanding the Task:**
+   - Recognize that the goal is to calculate the sum of hash values.
+   - Understand that the input consists of commands.
+
+2. **Parsing the Input:**
+   - Identify the structure of the input, where commands are provided.
+
+3. **Iterative Processing:**
+   - Plan a way to iterate through the commands.
+   - Understand the need to calculate the sum of hash values based on the given conditions.
+
+4. **Handling Commands:**
+   - Consider a mechanism to calculate the sum of hash values.
+   - Notice that the conditions for calculating the hash values are based on the commands.
+
+5. **Data Storage:**
+   - Think about storing information efficiently, possibly using lists or arrays.
+
+### Part 2:
+
+1. **Understanding the Task:**
+   - Recognize that the goal is to calculate the sum of hash values with additional rules.
+   - Understand that the input consists of commands.
+
+2. **Parsing the Input:**
+   - Identify the structure of the input, where commands are provided.
+
+3. **Iterative Processing:**
+   - Plan a way to iterate through the commands.
+   - Understand the need to calculate the sum of hash values based on the given conditions.
+
+4. **Handling Commands:**
+   - Consider a mechanism to calculate the sum of hash values.
+   - Notice that the conditions for calculating the hash values are based on the commands.
+
+5. **Data Storage:**
+   - Think about storing information efficiently, possibly using lists or arrays.
+
+# Day 16:
+### Part 1:
+
+1. **Understanding the Task:**
+   - Recognize that the goal is to calculate the score of the grid.
+   - Understand that the input consists of a grid of characters.
+
+2. **Parsing the Input:**
+   - Identify the structure of the input, where the grid of characters is provided.
+
+3. **Iterative Processing:**
+   - Plan a way to iterate through the grid.
+   - Understand the need to calculate the score based on the given conditions.
+
+4. **Handling the Grid:**
+   - Consider a mechanism to calculate the score of the grid.
+   - Notice that the conditions for calculating the score are based on the characters in the grid.
+
+5. **Data Storage:**
+   - Think about storing information efficiently, possibly using lists or arrays.
+
+### Part 2:
+
+1. **Understanding the Task:**
+   - Recognize that the goal is to calculate the score of the grid with additional rules.
+   - Understand that the input consists of a grid of characters.
+
+2. **Parsing the Input:**
+   - Identify the structure of the input, where the grid of characters is provided.
+
+3. **Iterative Processing:**
+   - Plan a way to iterate through the grid.
+   - Understand the need to calculate the score based on the given conditions.
+
+4. **Handling the Grid:**
+   - Consider a mechanism to calculate the score of the grid.
+   - Notice that the conditions for calculating the score are based on the characters in the grid.
+
+5. **Data Storage:**
+   - Think about storing information efficiently, possibly using lists or arrays.
+
+# Day 17:
+### Part 1:
+
+1. **Understanding the Task:**
+   - Recognize that the goal is to find the shortest path in the grid.
+   - Understand that the input consists of a grid of characters.
+
+2. **Parsing the Input:**
+   - Identify the structure of the input, where the grid of characters is provided.
+
+3. **Iterative Processing:**
+   - Plan a way to iterate through the grid.
+   - Understand the need to find the shortest path based on the given conditions.
+
+4. **Handling the Grid:**
+   - Consider a mechanism to find the shortest path in the grid.
+   - Notice that the conditions for finding the path are based on the characters in the grid.
+
+5. **Data Storage:**
+   - Think about storing information efficiently, possibly using lists or arrays.
+
+### Part 2:
+
+1. **Understanding the Task:**
+   - Recognize that the goal is to find the shortest path in the grid with additional rules.
+   - Understand that the input consists of a grid of characters.
+
+2. **Parsing the Input:**
+   - Identify the structure of the input, where the grid of characters is provided.
+
+3. **Iterative Processing:**
+   - Plan a way to iterate through the grid.
+   - Understand the need to find the shortest path based on the given conditions.
+
+4. **Handling the Grid:**
+   - Consider a mechanism to find the shortest path in the grid.
+   - Notice that the conditions for finding the path are based on the characters in the grid.
+
+5. **Data Storage:**
+   - Think about storing information efficiently, possibly using lists or arrays.
+
+# Day 18:
+### Part 1:
+
+1. **Understanding the Task:**
+   - Recognize that the goal is to calculate the area of the shape.
+   - Understand that the input consists of instructions.
+
+2. **Parsing the Input:**
+   - Identify the structure of the input, where instructions are provided.
+
+3. **Iterative Processing:**
+   - Plan a way to iterate through the instructions.
+   - Understand the need to calculate the area based on the given conditions.
+
+4. **Handling Instructions:**
+   - Consider a mechanism to calculate the area of the shape.
+   - Notice that the conditions for calculating the area are based on the instructions.
+
+5. **Data Storage:**
+   - Think about storing information efficiently, possibly using lists or arrays.
+
+### Part 2:
+
+1. **Understanding the Task:**
+   - Recognize that the goal is to calculate the area of the shape with additional rules.
+   - Understand that the input consists of instructions.
+
+2. **Parsing the Input:**
+   - Identify the structure of the input, where instructions are provided.
+
+3. **Iterative Processing:**
+   - Plan a way to iterate through the instructions.
+   - Understand the need to calculate the area based on the given conditions.
+
+4. **Handling Instructions:**
+   - Consider a mechanism to calculate the area of the shape.
+   - Notice that the conditions for calculating the area are based on the instructions.
+
+5. **Data Storage:**
+   - Think about storing information efficiently, possibly using lists or arrays.
+
+# Day 19:
+### Part 1:
+
+1. **Understanding the Task:**
+   - Recognize that the goal is to identify accepted parts based on rules.
+   - Understand that the input consists of rules and parts.
+
+2. **Parsing the Input:**
+   - Identify the structure of the input, where rules and parts are provided.
+
+3. **Iterative Processing:**
+   - Plan a way to iterate through the rules and parts.
+   - Understand the need to identify accepted parts based on the given conditions.
+
+4. **Handling Rules and Parts:**
+   - Consider a mechanism to identify accepted parts.
+   - Notice that the conditions for acceptance are based on the rules.
+
+5. **Data Storage:**
+   - Think about storing information efficiently, possibly using lists or arrays.
+
+### Part 2:
+
+1. **Understanding the Task:**
+   - Recognize that the goal is to identify accepted parts based on rules with additional conditions.
+   - Understand that the input consists of rules and parts.
+
+2. **Parsing the Input:**
+   - Identify the structure of the input, where rules and parts are provided.
+
+3. **Iterative Processing:**
+   - Plan a way to iterate through the rules and parts.
+   - Understand the need to identify accepted parts based on the given conditions.
+
+4. **Handling Rules and Parts:**
+   - Consider a mechanism to identify accepted parts.
+   - Notice that the conditions for acceptance are based on the rules.
+
+5. **Data Storage:**
+   - Think about storing information efficiently, possibly using lists or arrays.
+
+# Day 20:
+### Part 1:
+
+1. **Understanding the Task:**
+   - Recognize that the goal is to calculate the least common multiple (LCM) of a set of numbers.
+   - Understand that the input consists of rules.
+
+2. **Parsing the Input:**
+   - Identify the structure of the input, where rules are provided.
+
+3. **Iterative Processing:**
+   - Plan a way to iterate through the rules.
+   - Understand the need to calculate the LCM based on the given conditions.
+
+4. **Handling Rules:**
+   - Consider a mechanism to calculate the LCM.
+   - Notice that the conditions for LCM are based on the rules.
+
+5. **Data Storage:**
+   - Think about storing information efficiently, possibly using lists or arrays.
+
+### Part 2:
+
+1. **Understanding the Task:**
+   - Recognize that the goal is to calculate the least common multiple (LCM) of a set of numbers with additional rules.
+   - Understand that the input consists of rules.
+
+2. **Parsing the Input:**
+   - Identify the structure of the input, where rules are provided.
+
+3. **Iterative Processing:**
+   - Plan a way to iterate through the rules.
+   - Understand the need to calculate the LCM based on the given conditions.
+
+4. **Handling Rules:**
+   - Consider a mechanism to calculate the LCM.
+   - Notice that the conditions for LCM are based on the rules.
+
+5. **Data Storage:**
+   - Think about storing information efficiently, possibly using lists or arrays.
+
+# Day 21:
+### Part 1:
+
+1. **Understanding the Task:**
+   - Recognize that the goal is to find the number of ways to get a copy of a point in a given number of steps.
+   - Understand that the input consists of a grid of characters.
+
+2. **Parsing the Input:**
+   - Identify the structure of the input, where the grid of characters is provided.
+
+3. **Iterative Processing:**
+   - Plan a way to iterate through the grid.
+   - Understand the need to find the number of ways to get a copy of a point based on the given conditions.
+
+4. **Handling the Grid:**
+   - Consider a mechanism to find the number of ways to get a copy of a point in the grid.
+   - Notice that the conditions for finding the ways are based on the characters in the grid.
+
+5. **Data Storage:**
+   - Think about storing information efficiently, possibly using lists or arrays.
+
+### Part 2:
+
+1. **Understanding the Task:**
+   - Recognize that the goal is to find the number of ways to get a copy of a point in a given number of steps with additional rules.
+   - Understand that the input consists of a grid of characters.
+
+2. **Parsing the Input:**
+   - Identify the structure of the input, where the grid of characters is provided.
+
+3. **Iterative Processing:**
+   - Plan a way to iterate through the grid.
+   - Understand the need to find the number of ways to get a copy of a point based on the given conditions.
+
+4. **Handling the Grid:**
+   - Consider a mechanism to find the number of ways to get a copy of a point in the grid.
+   - Notice that the conditions for finding the ways are based on the characters in the grid.
+
+5. **Data Storage:**
+   - Think about storing information efficiently, possibly using lists or arrays.
+
+# Day 22:
+### Part 1:
+
+1. **Understanding the Task:**
+   - Recognize that the goal is to find the number of bricks that would not move.
+   - Understand that the input consists of a grid of characters.
+
+2. **Parsing the Input:**
+   - Identify the structure of the input, where the grid of characters is provided.
+
+3. **Iterative Processing:**
+   - Plan a way to iterate through the grid.
+   - Understand the need to find the number of bricks that would not move based on the given conditions.
+
+4. **Handling the Grid:**
+   - Consider a mechanism to find the number of bricks that would not move in the grid.
+   - Notice that the conditions for finding the bricks are based on the characters in the grid.
+
+5. **Data Storage:**
+   - Think about storing information efficiently, possibly using lists or arrays.
+
+### Part 2:
+
+1. **Understanding the Task:**
+   - Recognize that the goal is to find the number of bricks that would not move with additional rules.
+   - Understand that the input consists of a grid of characters.
+
+2. **Parsing the Input:**
+   - Identify the structure of the input, where the grid of characters is provided.
+
+3. **Iterative Processing:**
+   - Plan a way to iterate through the grid.
+   - Understand the need to find the number of bricks that would not move based on the given conditions.
+
+4. **Handling the Grid:**
+   - Consider a mechanism to find the number of bricks that would not move in the grid.
+   - Notice that the conditions for finding the bricks are based on the characters in the grid.
+
+5. **Data Storage:**
+   - Think about storing information efficiently, possibly using lists or arrays.
+
+# Day 23:
+### Part 1:
+
+1. **Understanding the Task:**
+   - Recognize that the goal is to find the shortest path in the grid.
+   - Understand that the input consists of a grid of characters.
+
+2. **Parsing the Input:**
+   - Identify the structure of the input, where the grid of characters is provided.
+
+3. **Iterative Processing:**
+   - Plan a way to iterate through the grid.
+   - Understand the need to find the shortest path based on the given conditions.
+
+4. **Handling the Grid:**
+   - Consider a mechanism to find the shortest path in the grid.
+   - Notice that the conditions for finding the path are based on the characters in the grid.
+
+5. **Data Storage:**
+   - Think about storing information efficiently, possibly using lists or arrays.
+
+### Part 2:
+
+1. **Understanding the Task:**
+   - Recognize that the goal is to find the shortest path in the grid with additional rules.
+   - Understand that the input consists of a grid of characters.
+
+2. **Parsing the Input:**
+   - Identify the structure of the input, where the grid of characters is provided.
+
+3. **Iterative Processing:**
+   - Plan a way to iterate through the grid.
+   - Understand the need to find the shortest path based on the given conditions.
+
+4. **Handling the Grid:**
+   - Consider a mechanism to find the shortest path in the grid.
+   - Notice that the conditions for finding the path are based on the characters in the grid.
+
+5. **Data Storage:**
+   - Think about storing information efficiently, possibly using lists or arrays.
+
+# Day 24:
+### Part 1:
+
+1. **Understanding the Task:**
+   - Recognize that the goal is to find the number of intersections in the grid.
+   - Understand that the input consists of a grid of characters.
+
+2. **Parsing the Input:**
+   - Identify the structure of the input, where the grid of characters is provided.
+
+3. **Iterative Processing:**
+   - Plan a way to iterate through the grid.
+   - Understand the need to find the number of intersections based on the given conditions.
+
+4. **Handling the Grid:**
+   - Consider a mechanism to find the number of intersections in the grid.
+   - Notice that the conditions for finding the intersections are based on the characters in the grid.
+
+5. **Data Storage:**
+   - Think about storing information efficiently, possibly using lists or arrays.
+
+### Part 2:
+
+1. **Understanding the Task:**
+   - Recognize that the goal is to find the number of intersections in the grid with additional rules.
+   - Understand that the input consists of a grid of characters.
+
+2. **Parsing the Input:**
+   - Identify the structure of the input, where the grid of characters is provided.
+
+3. **Iterative Processing:**
+   - Plan a way to iterate through the grid.
+   - Understand the need to find the number of intersections based on the given conditions.
+
+4. **Handling the Grid:**
+   - Consider a mechanism to find the number of intersections in the grid.
+   - Notice that the conditions for finding the intersections are based on the characters in the grid.
+
+5. **Data Storage:**
+   - Think about storing information efficiently, possibly using lists or arrays.
+
+# Day 25:
+### Part 1:
+
+1. **Understanding the Task:**
+   - Recognize that the goal is to find the number of valid paths in the grid.
+   - Understand that the input consists of a grid of characters.
+
+2. **Parsing the Input:**
+   - Identify the structure of the input, where the grid of characters is provided.
+
+3. **Iterative Processing:**
+   - Plan a way to iterate through the grid.
+   - Understand the need to find the number of valid paths based on the given conditions.
+
+4. **Handling the Grid:**
+   - Consider a mechanism to find the number of valid paths in the grid.
+   - Notice that the conditions for finding the paths are based on the characters in the grid.
+
+5. **Data Storage:**
+   - Think about storing information efficiently, possibly using lists or arrays.
+
+### Part 2:
+
+1. **Understanding the Task:**
+   - Recognize that the goal is to find the number of valid paths in the grid with additional rules.
+   - Understand that the input consists of a grid of characters.
+
+2. **Parsing the Input:**
+   - Identify the structure of the input, where the grid of characters is provided.
+
+3. **Iterative Processing:**
+   - Plan a way to iterate through the grid.
+   - Understand the need to find the number of valid paths based on the given conditions.
+
+4. **Handling the Grid:**
+   - Consider a mechanism to find the number of valid paths in the grid.
+   - Notice that the conditions for finding the paths are based on the characters in the grid.
+
+5. **Data Storage:**
+   - Think about storing information efficiently, possibly using lists or arrays.
